@@ -1,0 +1,37 @@
+li{
+    display: inline-block;
+    padding-right: 2%;
+    padding-left: 2%;
+    padding-top: 3%;
+    padding-bottom: 2%;
+    margin-left: 1%;
+
+}
+li a{
+    text-decoration: none;
+    color:blue;
+}
+li a:hover{
+    background-color:white;
+}
+.Nav{
+    background-color: whitesmoke;
+    opacity: .78;
+    /* margin-left: 27%;
+    margin-right: 27%;
+    padding-top: 1%;
+    padding-bottom: 1%; */
+    color: black;
+}
+h1{
+    color: darkblue;
+}
+body{
+    /* background-color: yellow; */
+    /* background-image: url(Img/Home.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+    text-align: justify;
+    margin-left: 2%;
+    margin-right: 2%;
+}
